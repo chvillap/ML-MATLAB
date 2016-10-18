@@ -10,6 +10,7 @@ The following algorithms/examples are included:
 - Principal Component Analysis
 - K-Means
 - Anomaly/Outlier Detection
+- Recommender Systems (content-based, collaborative filtering)
 - And several auxiliary functions (for plotting, preprocessing, evaluation, etc...)
 
 As far as I'm aware, everything runs in Octave too.
