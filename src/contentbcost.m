@@ -1,6 +1,6 @@
 function [J, grad] = contentbcost(weights, X, Y, R, lambda)
-    % CONTENTBCOST: ...
-    % 
+    % CONTENTBCOST: Cost function for the content-based recommendation algorithm.
+    %
     % INPUT
     %   weights  Model parameters
     %   X        Features data
